@@ -6,11 +6,12 @@
 
 ### GUI
 
-- [dat.gui -> lil.gui](./library/gui/lilgui/index.md)
+- [dat.gui -> lil.gui](./library/gui/lilgui/README.md)
+- [tweakpane](./library/gui/tweakpane/README.md)
 
 ### Animation
 
-- [Tween24.js](./library/animation/tween24js/index.md)
+- [Tween24.js](./library/animation/tween24js/README.md)
 
 ## UI Framework
 
