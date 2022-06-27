@@ -36,7 +36,12 @@ d3じゃなくても使える。
 ### [Many-Body](https://github.com/d3/d3-force#many-body)
 
 ノード全体の重力（ノード同士が引き合う）・斥力（ノード同士が反発しあう）。  
-strengthが正なら重力、負なら斥力。  
+strengthが正なら重力、負なら斥力。
+
+シミュレーションには[Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)を使用している。  
+thetaが大きいと速度大・精度小、0に近づくとその逆。  
+theta=0だとグルーピングなしと同義。
+
 全体を散らすのに使える。
 
 ### [Positioning](https://github.com/d3/d3-force#positioning)
