@@ -2,6 +2,9 @@
 
 ## Language
 
+- [TypeScript](./languages/typescript/README.md)
+- [JavaScript](./languages/javascript/README.md)
+
 ## Library
 
 ### Visualization
