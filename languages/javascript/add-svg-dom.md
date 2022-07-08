@@ -11,4 +11,4 @@ const el = document.createElement("rect");
 const el = document.createElementNS("http://www.w3.org/2000/svg","rect");
 ```
 
-ref: https://little-strange.hatenablog.com/entry/2021/03/06/201143
+ref: [【SVG+JavaScript】SVG要素をDOMで追加【実験】](https://little-strange.hatenablog.com/entry/2021/03/06/201143)
