@@ -2,8 +2,9 @@
 
 ## Language
 
-- [TypeScript](./languages/typescript/README.md)
+- [CSS](./languages/css/README.md)
 - [JavaScript](./languages/javascript/README.md)
+- [TypeScript](./languages/typescript/README.md)
 
 ## Library
 
