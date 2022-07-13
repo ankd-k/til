@@ -4,6 +4,7 @@
 
 - [CSS](./languages/css/README.md)
 - [JavaScript](./languages/javascript/README.md)
+- [PowerShell](./languages/powershell/README.md)
 - [TypeScript](./languages/typescript/README.md)
 
 ## Library
