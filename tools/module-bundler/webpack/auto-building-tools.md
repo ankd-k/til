@@ -2,7 +2,7 @@
 
 [Choosing development tool](https://webpack.js.org/guides/development/#choosing-a-development-tool)  
 
-## TD;SR
+## TL;DR
 
 とりあえずwebpack-dev-server使っておけばおｋ
 
